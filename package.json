@@ -2,7 +2,7 @@
   "name": "hospital-frontend",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Bhavya33060.github.io/hospital-frontend/",
+  "homepage": "https://Bhavya33060.github.io/endsem/",
   "type": "module",
   "scripts": {
     "dev": "vite",
